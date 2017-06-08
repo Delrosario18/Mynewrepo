@@ -1,0 +1,2 @@
+# Mynewrepo
+Class new repo
